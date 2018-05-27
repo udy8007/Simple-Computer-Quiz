@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tech Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question_a">BIOS program is stored on the RAM.</string>
+    <string name="question_b"> Machine language is machine de4pendent while assembly languages are machine independent.</string>
+    <string name="question_c">ASCII Codes are 10 Bit binary codes.</string>
+    <string name="question_d"> Bluetooth allows your device to connect with another device....</string>
+    <string name="question_e">A pen drive is a storage device....</string>
+	<string name="cheat_button">Cheat!</string>
+	<string name="warning_text">Are you sure you want to do this?</string>
+	<string name="show_answer_button">Show Answer</string>
+	<string name="judgement_toast">Cheating is wrong.</string>
+	
+	
+</resources>
